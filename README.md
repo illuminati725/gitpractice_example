@@ -3,9 +3,7 @@ This is github practice
 
 ### SOME BASIC COMMANDS OF GIT  
  1999  git --version  
- 2000  git -v  
- 2001  git -V  
- 2002  cd WORKSPACE/  
+ 2002  cd WORKSPACE/   
  2003  mkdir git   
  2004  cd git   
  2005  mkdir git_practice      
